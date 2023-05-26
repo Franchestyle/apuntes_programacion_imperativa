@@ -20,7 +20,7 @@ if( clima == "soleado" && dia == "domingo") {
     // lo que haremos si no se cumple la condicion
 }
 
-// tambien existe el ELSE IF para cu951ando no se cumplen las condiciones del IF inicial pero sin tener que ejecutar el bloque de codigo del ELSE
+// tambien existe el ELSE IF para cuando no se cumplen las condiciones del IF inicial pero sin tener que ejecutar el bloque de codigo del ELSE
 
 if( clima == "soleado" && dia == "domingo") {
     console.log("lindo dia para pasear");
